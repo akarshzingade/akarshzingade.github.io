@@ -8,13 +8,13 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'You do not think I could mean _you_ , or suppose Mr . Knightley to mean _you_ .',
+      'You do not think I could mean you, or suppose Mr. Knightley to mean you.',
   'example2':
-      'She rated Lady Russells influence highly ; and as to the severe degree of self - denial which her own       conscience prompted , she believed there might be little more difficulty in persuading them to a complete , than to half a reformation .',
+      'She rated Lady Russells influence highly; and as to the severe degree of self - denial which her own conscience prompted, she believed there might be little more difficulty in persuading them to a complete, than to half a reformation.',
   'example3':
-      'But , then , if Mrs . Dashwood should live fifteen years we shall be completely taken in .',
+      'But, then, if Mrs. Dashwood should live fifteen years we shall be completely taken in.',
   'example4':
-      'And the LORD set a mark upon Cain , lest any finding him should kill him .'
+      'And Noah begat three sons, Shem, Ham, and Japheth.'
 };
 
 function status(statusText) {
